@@ -1,0 +1,7 @@
+locations:
+  HAARCASCADE_PATH: "files\\haarcascade_frontalface_default.xml"
+  INTERMIDEIATE_DIR: "intermediate_data"
+  ID_FILE: "intermediate_data\\id_card.jpg"
+  FACE_FROM_ID: 'intermediate_data\\face_from_id.jpg'
+  FACE_FROM_FEED: 'intermediate_data\\face_from_feed.jpg'
+  LIVE_FEED_IMAGE: 'intermediate_data\\live_feed_image.jpg'
