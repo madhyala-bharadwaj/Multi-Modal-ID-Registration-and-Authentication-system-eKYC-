@@ -1,6 +1,6 @@
 # eKYC System
 
-![Screenshot (251)](https://github.com/madhyala-bharadwaj/Multi-Modal-ID-Registration-and-Authentication-system-eKYC-/assets/142684967/8d083481-a0ab-4b6d-8391-ba3f8a65ced4)
+![Screenshot (252)](https://github.com/madhyala-bharadwaj/Multi-Modal-ID-Registration-and-Authentication-system-eKYC-/assets/142684967/6b2fa37a-5cb9-4466-b7c5-11c2c467b674)
 
 This project is an Electronic Know Your Customer (eKYC) system that uses facial recognition and OCR (Optical Character Recognition) to verify user identity. The system is built with Streamlit for the interactive web interface, OpenCV for image processing, SQLAlchemy for database operations, and various libraries for face recognition and OCR.
 
